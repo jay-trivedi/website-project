@@ -1,11 +1,11 @@
 # Site
 title:              Jay Trivedi
-bio:                'Minimal, one column jekyll theme.'
+bio:                'A geek, a musician and an explorer.'
 description:        "Moon is a minimal, one column jekyll theme for your blog."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/2014.jpg'
-background:         'assets/img/Katana wallpaper 15764.jpg'
+background:         'assets/img/katana.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://taylantatli.github.io/Moon
