@@ -1,6 +1,8 @@
 # Making a webite for myself
 
-*Check out the website [here](http://jay-trivedi.in) *
+-----------
+*Check out the website [here](http://jay-trivedi.in)*
+-----------
 
 * GitHub lets you set up a website in a really interesting and easy manner using Jekyll.
 
